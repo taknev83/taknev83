@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Venkatesh 
 
-# Founder of [PDC Finance](https://pdc.finance/) | [GitHub](https://github.com/PDC-Finance)
+# Founder [PDC Finance](https://pdc.finance/) | [GitHub](https://github.com/PDC-Finance)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taknev83&show_icons=true&theme=radical)
 
